@@ -1,10 +1,10 @@
-# Hey, we are for.cloud.com 👋
+# Ei, nós somos for.cloud.com 👋
 
-<p>**Organization description**<br>
+<p><strong>Descrição da organização</strong><br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </p>
 
-### :hibiscus:Mais uma qualidade do Projeto
+### **:hibiscus:Qualidade do Projeto**
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -12,7 +12,7 @@ It has survived not only five centuries, but also the leap into electronic types
 - Item 2
 - Item 3
 
-### :hibiscus:Nosso Objetivo
+### **:hibiscus:Nosso Objetivo**
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <summary>O que temos a propor</summary>
     <br>
     <ul>
-        <li>Item 1</li>
+        <li>Facilidade na uilização do nosso Site</li>
         <li>Item 2
             <ul>
                 <li>Sub item2.1</li>
@@ -37,7 +37,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <sub>© 2022 Cloud-Organization, Inc.</sub>
 
 <!--
-Made with
-🖤
-🙇‍♂️🎤⬇️
+Made with @raulrsoares © 2022  Cloud-Organization, Inc.
 -->
